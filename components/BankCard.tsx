@@ -30,7 +30,7 @@ const BankCard = ({
                     </h2>
                     </div>
                 <p className="text-14 font-semi-bold tracking-[1.1px] text-black-1">
-                ●●●● ●●●● ●●●● <span className="text-16">₹
+                ●●●● ●●●● ●●●● <span className="text-16">
                     {1234}
                 </span>
                 </p>
@@ -42,7 +42,7 @@ const BankCard = ({
               width={25}
               height={24}
               alt="pay"
-              className="mr-4"
+              className="mr-3"
             />
              <Image
               src="/icons/mastercard.svg"
